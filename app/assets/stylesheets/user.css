@@ -16,7 +16,7 @@
 body{
 	background-image: url(/assets/sa.jpeg);
 /*	background: url('../sa.jpeg');*/
-	background-image: image-url('sa.jpeg');
+/*	background-image: image-url('sa.jpeg');*/
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
